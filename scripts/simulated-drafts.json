@@ -1,0 +1,26 @@
+{
+  "L21": {
+    "why": "Imran's gone quiet for six weeks after earlier flagging as a detractor, with nothing from him to explain the silence.",
+    "archetype_confirm": "Ghost",
+    "next_touch": "call",
+    "draft": "1. Open warm, no agenda — just glad to catch him, nothing to discuss yet.\n2. Ask how he's genuinely doing right now, and actually listen.\n3. Let him surface what's going on for him — work, family, health, whatever's been pulling at him.\n4. Once that's out, gently note it's been a few weeks since you last connected — curious, not checking up — and ask what that's been about for him.\n5. Agree on one small, easy thing to do next — nothing from the backlog, just one easy step back in.\nKeep it light throughout. No guilt, no rundown of catch-up items. If he's not ready to commit to anything yet, that's fine — leave the door open and say you'll check in again."
+  },
+  "L23": {
+    "why": "Meera's attendance and assignments have dropped while she's juggling her job, and she's already told you she needs a lighter pace.",
+    "archetype_confirm": "Overwhelmed",
+    "next_touch": "email",
+    "draft": "Subject: Just checking in, no pressure\n\nHi Meera,\n\nWanted to reach out personally — I know juggling the job alongside this has been a lot lately, and that counts for a lot, you're still here and still trying.\n\nLet's make the next couple of weeks lighter rather than faster: pick just one assignment to focus on this week, and we'll leave the rest for after. No need to catch up on everything at once — one solid win is enough for now.\n\nNo reply needed right away — just let me know if Thursday works for a quick 10-minute check-in, or whenever suits you better.\n\nRooting for you."
+  },
+  "L24": {
+    "why": "Vikram's asked to defer over money being tight, but he's told you directly he still wants the certificate.",
+    "archetype_confirm": "Wavering",
+    "next_touch": "email",
+    "draft": "Subject: Still in this with you\n\nHi Vikram,\n\nBefore anything else — you told us you still want the certificate, and that goal hasn't changed, even with money tight right now.\n\nA deferment isn't a way out — it's a bridge to stay enrolled while things ease up financially. We can set up a short extension or a revised payment plan, whichever fits better for you.\n\nCan we lock in one thing: a quick call this Friday to pick whichever option works and put a date on it?"
+  },
+  "L25": {
+    "why": "Priya's showing up to everything and still rating every session low — something about the experience itself isn't meeting her expectations.",
+    "archetype_confirm": "Disappointed",
+    "next_touch": "call",
+    "draft": "Open by signaling this got real attention — you picked up the phone yourself rather than letting it sit in a queue. Ask her directly what's not working and let her finish completely before responding — no interrupting, no defending the program. Acknowledge it cleanly and fully: her ratings have been low three sessions running, and that is not the experience she signed up for. Commit to one concrete, owned fix: you will personally sit in on her next session this Thursday and follow up with her by Friday on what changed as a result. Close with a specific promise to check back in after that session to see whether it actually felt better for her."
+  }
+}

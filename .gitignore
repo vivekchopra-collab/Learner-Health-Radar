@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+.env
+.vercel
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+server/*.js
+server/*.d.ts
+src/engine.js
+src/engine.d.ts
+api/*.js
+api/*.d.ts
