@@ -13,7 +13,7 @@
  * project (Settings -> Environment Variables) — never committed to a file.
  */
 import type { VercelRequest, VercelResponse } from "@vercel/node";
-import { generateLearnerNarrative } from "../server/learnerNarrative";
+import { generateLearnerNarrative } from "../server/learnerNarrative.js";
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== "POST") {

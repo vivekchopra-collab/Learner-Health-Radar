@@ -9,8 +9,8 @@
  */
 import type { IncomingMessage, ServerResponse } from "node:http";
 import type { Plugin, ViteDevServer } from "vite";
-import { generateLearnerNarrative } from "./learnerNarrative";
-import { generateBriefing } from "./briefing";
+import { generateLearnerNarrative } from "./learnerNarrative.js";
+import { generateBriefing } from "./briefing.js";
 
 function readJsonBody(req: IncomingMessage): Promise<unknown> {
   return new Promise((resolve, reject) => {

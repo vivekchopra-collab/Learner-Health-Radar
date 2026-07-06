@@ -8,7 +8,7 @@
  * that server/devApiPlugin.ts exposes for local dev.
  */
 import type { VercelRequest, VercelResponse } from "@vercel/node";
-import { generateBriefing } from "../server/briefing";
+import { generateBriefing } from "../server/briefing.js";
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== "POST") {

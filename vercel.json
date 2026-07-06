@@ -1,5 +1,5 @@
 {
-  "buildCommand": "tsc -b && vite build",
+  "buildCommand": "tsc -b && rm -f server/*.js server/*.d.ts api/*.js api/*.d.ts src/engine.js src/engine.d.ts && vite build",
   "outputDirectory": "dist",
   "framework": "vite"
 }

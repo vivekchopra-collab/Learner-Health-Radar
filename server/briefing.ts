@@ -2,9 +2,9 @@
  * briefing.ts — batch briefing call (llm-layer-spec.md Section C).
  * Runs once over the whole classified cohort, returns a 5-line briefing.
  */
-import { callClaude } from "./anthropicClient";
-import { BRIEFING_SYSTEM_PROMPT } from "./briefingSystemPrompt";
-import type { Archetype, Tier } from "../src/engine";
+import { callClaude } from "./anthropicClient.js";
+import { BRIEFING_SYSTEM_PROMPT } from "./briefingSystemPrompt.js";
+import type { Archetype, Tier } from "../src/engine.js";
 
 export interface BriefingCohortEntry {
   name: string;

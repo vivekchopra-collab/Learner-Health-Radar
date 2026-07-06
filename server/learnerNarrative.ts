@@ -6,9 +6,9 @@
  * and the rescue `draft`. Never re-derives tier/archetype/firedSignals —
  * those arrive as a frozen input here, not recomputed.
  */
-import { callClaude } from "./anthropicClient";
-import { LEARNER_NARRATIVE_SYSTEM_PROMPT } from "./systemPrompt";
-import type { Archetype, LearnerRow, Tier } from "../src/engine";
+import { callClaude } from "./anthropicClient.js";
+import { LEARNER_NARRATIVE_SYSTEM_PROMPT } from "./systemPrompt.js";
+import type { Archetype, LearnerRow, Tier } from "../src/engine.js";
 
 export interface LearnerNarrativeInput {
   name: string;
